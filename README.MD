@@ -1,4 +1,4 @@
-# Cafe-para-todos-DIO-CSS
+# Cafe-para-todos-bootstrap
 ☕ Café Para Todos Este projeto é uma landing page responsiva para uma cafeteria fictícia, desenvolvida com o objetivo de aplicar conceitos avançados de estilização e componentes de interface.
 
 📌 Sobre o Projeto O Café para todos foi desenvolvido como parte prática do curso de CSS Frameworks da plataforma DIO (Digital Innovation One). O projeto foca na criação de uma interface moderna, intuitiva e totalmente responsiva, simulando um ambiente real de cardápio e informações de localização de um estabelecimento.
